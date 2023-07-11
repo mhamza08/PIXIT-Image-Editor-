@@ -1,1 +1,0 @@
-# PIXIT-Image-Editor-
